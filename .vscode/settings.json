@@ -1,5 +1,5 @@
 {
   "liveServer.settings.multiRootWorkspaceName": "",
-  "liveServer.settings.AdvanceCustomBrowserCmdLine": null,
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": 0,
   "liveServer.settings.port": 5502
 }
